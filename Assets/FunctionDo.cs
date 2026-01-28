@@ -6,6 +6,7 @@ public class FunctionDo : MonoBehaviour {
 
 
 	int action = 0; // used to assign action
+	bool hi;
 	// Use this for initialization
 	void Start () {
 		
